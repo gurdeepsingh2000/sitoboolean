@@ -1,0 +1,90 @@
+body {
+ background-image: url(background.jpg);
+ background-size: 100%;
+}
+
+
+.container{
+  background-color: grey;
+  padding: 3%;
+  margin-left: 16%;
+  margin-right: 16%;
+  margin-top: 2%;
+  border-radius: 12px;
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+.lime{
+  width:20%;
+  margin-top: 1%;
+}
+
+header{
+  font-size: 28px;
+  text-align:center;
+  color:#32CD32
+}
+
+#blocco{
+  text-align: center;
+  background-color: #32CD32;
+  height: 21px;
+  width: 52%;
+  margin:auto;
+  padding: 9px
+}
+
+main{
+  text-align: center;
+  width: 60%;
+  margin-top: 11px;
+  color: white;
+}
+
+
+.via1, .via2, .via3{
+font-size: 20px;
+margin-left: 12%;
+}
+
+.carica, .carica2, .carica3{
+  margin-right:8%;
+  font-size: 20px
+}
+
+.statusbar3{
+  background-color: red;
+  color: red;
+font-size: 1px;
+  height: 30px;
+  margin-left: 40%;
+  margin-right: 48%;
+  border-radius: 10px
+}
+
+
+.statusbar2{
+  background-color: lightgreen;
+font-size: 1px;
+  height: 30px;
+  margin-left: 40%;
+  margin-right: 10%;
+  border-radius: 10px
+}
+
+  .statusbar1{
+    background-color: yellow;
+  font-size: 1px;
+    height: 30px;
+    margin-left: 40%;
+    margin-right: 34%;
+    border-radius: 10px
+}
+
+.nome1, .nome2, .nome3{
+  margin-top: 4%;
+  font-size: 22px
+}
